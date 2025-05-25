@@ -37,6 +37,16 @@
 </p>
 
 <p>
+  <img align="left" alt="Java" width="26px" src="https://img.icons8.com/?size=96&id=108784&format=png" />
+  <span>JavaScript</span>
+</p>
+
+<p>
+  <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/typescript.png" />
+  <span>TypeScript</span>
+</p>
+
+<p>
   <img align="left" alt="JIRA" width="26px" src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nmec2job.png" />
   <span>JIRA</span>
 </p>
